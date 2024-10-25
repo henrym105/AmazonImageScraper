@@ -1,0 +1,126 @@
+2024-10-25 01:46:13,145 - INFO - Starting Amazon product image scraper
+2024-10-25 01:46:13,145 - INFO - Starting to scrape category: electronics
+2024-10-25 01:46:13,421 - INFO - Starting Amazon product image scraper
+2024-10-25 01:46:13,421 - INFO - Starting to scrape category: electronics
+2024-10-25 01:46:13,582 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=electronics: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=electronics
+2024-10-25 01:46:16,500 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=electronics: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=electronics
+2024-10-25 01:46:21,225 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=electronics: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=electronics
+2024-10-25 01:46:21,225 - ERROR - Error scraping category electronics: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=electronics
+2024-10-25 01:46:21,226 - INFO - Starting to scrape category: books
+2024-10-25 01:46:21,419 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:46:24,945 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:46:29,176 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:46:29,176 - ERROR - Error scraping category books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:46:29,176 - INFO - Starting to scrape category: fashion
+2024-10-25 01:46:29,351 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:46:33,397 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:46:36,881 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:46:36,881 - ERROR - Error scraping category fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:46:36,881 - INFO - Starting to scrape category: home_kitchen
+2024-10-25 01:46:37,004 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=home+and+kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:46:40,054 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=home+and+kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:46:44,337 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=home+and+kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:46:44,337 - ERROR - Error scraping category home_kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:46:44,337 - INFO - Starting to scrape category: toys_games
+2024-10-25 01:46:44,646 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=toys+and+games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:46:48,905 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=toys+and+games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:46:51,841 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=toys+and+games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:46:51,842 - ERROR - Error scraping category toys_games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:46:51,842 - INFO - Starting to scrape category: sports_outdoors
+2024-10-25 01:46:51,983 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=sports+and+outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:46:56,029 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=sports+and+outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:47:00,877 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=sports+and+outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:47:00,877 - ERROR - Error scraping category sports_outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:47:00,877 - INFO - Starting to scrape category: beauty
+2024-10-25 01:47:01,019 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=beauty: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=beauty
+2024-10-25 01:47:03,218 - INFO - Starting Amazon product image scraper
+2024-10-25 01:47:03,218 - INFO - Starting to scrape category: electronics
+2024-10-25 01:47:03,219 - INFO - Attempting to fetch https://www.amazon.com/s?k=electronics (attempt 1/3)
+2024-10-25 01:47:05,663 - INFO - Successfully fetched page: https://www.amazon.com/s?k=electronics
+2024-10-25 01:47:05,891 - INFO - Searching for image elements in the page
+2024-10-25 01:47:05,910 - INFO - Found 25 images using selector: img.s-image
+2024-10-25 01:47:05,928 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:47:05,944 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:47:05,957 - INFO - Found 18 images using selector: img[srcset]
+2024-10-25 01:47:05,957 - INFO - Found 19 images in electronics
+2024-10-25 01:47:05,957 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61TuF2ElKgL._AC_UY218_.jpg
+2024-10-25 01:47:06,085 - INFO - Successfully downloaded image to: data/electronics/electronics_1.jpg
+2024-10-25 01:47:06,087 - INFO - Successfully downloaded: electronics_1.jpg
+2024-10-25 01:47:09,879 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/41F4LmKQeoL._AC_UY218_.jpg
+2024-10-25 01:47:09,984 - INFO - Successfully downloaded image to: data/electronics/electronics_2.jpg
+2024-10-25 01:47:09,985 - INFO - Successfully downloaded: electronics_2.jpg
+2024-10-25 01:47:14,804 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71W5GcQ8-JL._AC_UY218_.jpg
+2024-10-25 01:47:14,870 - INFO - Successfully downloaded image to: data/electronics/electronics_3.jpg
+2024-10-25 01:47:14,872 - INFO - Successfully downloaded: electronics_3.jpg
+2024-10-25 01:47:17,273 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51klK9TdlSL._AC_UY218_.jpg
+2024-10-25 01:47:17,347 - INFO - Successfully downloaded image to: data/electronics/electronics_4.jpg
+2024-10-25 01:47:17,348 - INFO - Successfully downloaded: electronics_4.jpg
+2024-10-25 01:47:19,655 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71nTeoleWWL._AC_UY218_.jpg
+2024-10-25 01:47:19,767 - INFO - Successfully downloaded image to: data/electronics/electronics_5.jpg
+2024-10-25 01:47:19,768 - INFO - Successfully downloaded: electronics_5.jpg
+2024-10-25 01:47:23,763 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61A25DbYYVL._AC_UY218_.jpg
+2024-10-25 01:47:23,868 - INFO - Successfully downloaded image to: data/electronics/electronics_6.jpg
+2024-10-25 01:47:23,869 - INFO - Successfully downloaded: electronics_6.jpg
+2024-10-25 01:47:27,354 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81djh1gfUwL._AC_UY218_.jpg
+2024-10-25 01:47:27,442 - INFO - Successfully downloaded image to: data/electronics/electronics_7.jpg
+2024-10-25 01:47:27,443 - INFO - Successfully downloaded: electronics_7.jpg
+2024-10-25 01:47:30,699 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61uA2UVnYWL._AC_UY218_.jpg
+2024-10-25 01:47:30,753 - INFO - Successfully downloaded image to: data/electronics/electronics_8.jpg
+2024-10-25 01:47:30,754 - INFO - Successfully downloaded: electronics_8.jpg
+2024-10-25 01:47:34,118 - INFO - Starting Amazon product image scraper
+2024-10-25 01:47:34,119 - INFO - Starting to scrape category: electronics
+2024-10-25 01:47:34,119 - INFO - Attempting to fetch https://www.amazon.com/s?k=electronics (attempt 1/3)
+2024-10-25 01:47:35,407 - INFO - Successfully fetched page: https://www.amazon.com/s?k=electronics
+2024-10-25 01:47:35,559 - INFO - Searching for image elements in the page
+2024-10-25 01:47:35,571 - INFO - Found 23 images using selector: img.s-image
+2024-10-25 01:47:35,583 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:47:35,594 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:47:35,610 - INFO - Found 17 images using selector: img[srcset]
+2024-10-25 01:47:35,610 - INFO - Found 18 images in electronics
+2024-10-25 01:47:35,610 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61uA2UVnYWL._AC_UY218_.jpg
+2024-10-25 01:47:35,728 - INFO - Successfully downloaded image to: data/electronics/electronics_1.jpg
+2024-10-25 01:47:35,730 - INFO - Successfully downloaded: electronics_1.jpg
+2024-10-25 01:47:38,798 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81hJ4SQSJFL._AC_UY218_.jpg
+2024-10-25 01:47:38,870 - INFO - Successfully downloaded image to: data/electronics/electronics_2.jpg
+2024-10-25 01:47:38,872 - INFO - Successfully downloaded: electronics_2.jpg
+2024-10-25 01:47:43,345 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/41F4LmKQeoL._AC_UY218_.jpg
+2024-10-25 01:47:43,440 - INFO - Successfully downloaded image to: data/electronics/electronics_3.jpg
+2024-10-25 01:47:43,441 - INFO - Successfully downloaded: electronics_3.jpg
+2024-10-25 01:47:46,538 - INFO - Starting Amazon product image scraper
+2024-10-25 01:47:46,538 - INFO - Starting to scrape category: electronics
+2024-10-25 01:47:46,540 - INFO - Attempting to fetch https://www.amazon.com/s?k=electronics (attempt 1/3)
+2024-10-25 01:47:47,687 - INFO - Successfully fetched page: https://www.amazon.com/s?k=electronics
+2024-10-25 01:47:47,827 - INFO - Searching for image elements in the page
+2024-10-25 01:47:47,837 - INFO - Found 23 images using selector: img.s-image
+2024-10-25 01:47:47,848 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:47:47,858 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:47:47,868 - INFO - Found 17 images using selector: img[srcset]
+2024-10-25 01:47:47,868 - INFO - Found 18 images in electronics
+2024-10-25 01:47:47,868 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71nTeoleWWL._AC_UY218_.jpg
+2024-10-25 01:47:47,923 - INFO - Successfully downloaded image to: data/electronics/electronics_1.jpg
+2024-10-25 01:47:47,924 - INFO - Successfully downloaded: electronics_1.jpg
+2024-10-25 01:47:51,806 - INFO - Starting Amazon product image scraper
+2024-10-25 01:47:51,806 - INFO - Python version: 3.11.9 (main, Apr  2 2024, 08:25:04) [GCC 13.3.0]
+2024-10-25 01:47:51,806 - INFO - Created directories for categories in data
+2024-10-25 01:47:51,807 - INFO - Starting to scrape category: electronics
+2024-10-25 01:47:51,807 - INFO - Starting to scrape category: electronics
+2024-10-25 01:47:51,807 - INFO - Attempting to fetch https://www.amazon.com/s?k=electronics (attempt 1/3)
+2024-10-25 01:47:53,125 - INFO - Successfully fetched page: https://www.amazon.com/s?k=electronics
+2024-10-25 01:47:53,310 - INFO - Searching for image elements in the page
+2024-10-25 01:47:53,322 - INFO - Found 23 images using selector: img.s-image
+2024-10-25 01:47:53,334 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:47:53,346 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:47:53,357 - INFO - Found 17 images using selector: img[srcset]
+2024-10-25 01:47:53,358 - INFO - Found 18 images in electronics
+2024-10-25 01:47:53,358 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/41ijQEHFicS._AC_UY218_.jpg
+2024-10-25 01:47:53,406 - INFO - Successfully downloaded image to: data/electronics/electronics_1.jpg
+2024-10-25 01:47:53,407 - INFO - Successfully downloaded: electronics_1.jpg
+2024-10-25 01:47:57,210 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71nTeoleWWL._AC_UY218_.jpg
+2024-10-25 01:47:57,264 - INFO - Successfully downloaded image to: data/electronics/electronics_2.jpg
+2024-10-25 01:47:57,266 - INFO - Successfully downloaded: electronics_2.jpg
+2024-10-25 01:48:00,294 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71rP7f78eFL._AC_UY218_.jpg
+2024-10-25 01:48:00,345 - INFO - Successfully downloaded image to: data/electronics/electronics_3.jpg
+2024-10-25 01:48:00,346 - INFO - Successfully downloaded: electronics_3.jpg
+2024-10-25 01:48:03,635 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51klK9TdlSL._AC_UY218_.jpg
+2024-10-25 01:48:03,697 - INFO - Successfully downloaded image to: data/electronics/electronics_4.jpg
+2024-10-25 01:48:03,698 - INFO - Successfully downloaded: electronics_4.jpg
