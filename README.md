@@ -15,7 +15,7 @@ This project provides a robust solution for collecting product images from Amazo
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/henrym105/AmazonImageScraper.git
 cd amazon-product-image-scraper
 ```
 
