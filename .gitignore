@@ -10,7 +10,11 @@ __pycache__/
 
 # Environment variables
 .env
+venv/
 
 # IDE specific files
 .vscode/
 .idea/
+
+# log files
+*.log
