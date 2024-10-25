@@ -1,0 +1,16 @@
+# Data directory
+data/
+
+# Log files
+logs/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
