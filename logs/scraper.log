@@ -124,3 +124,554 @@
 2024-10-25 01:48:03,635 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51klK9TdlSL._AC_UY218_.jpg
 2024-10-25 01:48:03,697 - INFO - Successfully downloaded image to: data/electronics/electronics_4.jpg
 2024-10-25 01:48:03,698 - INFO - Successfully downloaded: electronics_4.jpg
+2024-10-25 01:48:07,736 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61TuF2ElKgL._AC_UY218_.jpg
+2024-10-25 01:48:07,794 - INFO - Successfully downloaded image to: data/electronics/electronics_5.jpg
+2024-10-25 01:48:07,795 - INFO - Successfully downloaded: electronics_5.jpg
+2024-10-25 01:48:10,446 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71R6ka8Os4L._AC_UY218_.jpg
+2024-10-25 01:48:10,526 - INFO - Successfully downloaded image to: data/electronics/electronics_6.jpg
+2024-10-25 01:48:10,527 - INFO - Successfully downloaded: electronics_6.jpg
+2024-10-25 01:48:12,911 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61V5FRUgX8L._AC_UY218_.jpg
+2024-10-25 01:48:12,964 - INFO - Successfully downloaded image to: data/electronics/electronics_7.jpg
+2024-10-25 01:48:12,965 - INFO - Successfully downloaded: electronics_7.jpg
+2024-10-25 01:48:16,571 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/614f5R8ReXL._AC_UY218_.jpg
+2024-10-25 01:48:16,630 - INFO - Successfully downloaded image to: data/electronics/electronics_8.jpg
+2024-10-25 01:48:16,631 - INFO - Successfully downloaded: electronics_8.jpg
+2024-10-25 01:48:21,040 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71W5GcQ8-JL._AC_UY218_.jpg
+2024-10-25 01:48:21,093 - INFO - Successfully downloaded image to: data/electronics/electronics_9.jpg
+2024-10-25 01:48:21,095 - INFO - Successfully downloaded: electronics_9.jpg
+2024-10-25 01:48:25,322 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61A25DbYYVL._AC_UY218_.jpg
+2024-10-25 01:48:25,427 - INFO - Successfully downloaded image to: data/electronics/electronics_10.jpg
+2024-10-25 01:48:25,428 - INFO - Successfully downloaded: electronics_10.jpg
+2024-10-25 01:48:30,418 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61RsRGUZORL._AC_UY218_.jpg
+2024-10-25 01:48:30,470 - INFO - Successfully downloaded image to: data/electronics/electronics_11.jpg
+2024-10-25 01:48:30,471 - INFO - Successfully downloaded: electronics_11.jpg
+2024-10-25 01:48:34,140 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61uA2UVnYWL._AC_UY218_.jpg
+2024-10-25 01:48:34,196 - INFO - Successfully downloaded image to: data/electronics/electronics_12.jpg
+2024-10-25 01:48:34,197 - INFO - Successfully downloaded: electronics_12.jpg
+2024-10-25 01:48:37,383 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/510fGxoTsTL._AC_UY218_.jpg
+2024-10-25 01:48:37,437 - INFO - Successfully downloaded image to: data/electronics/electronics_13.jpg
+2024-10-25 01:48:37,439 - INFO - Successfully downloaded: electronics_13.jpg
+2024-10-25 01:48:41,921 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61bMNCeAUAL._AC_UY218_.jpg
+2024-10-25 01:48:41,974 - INFO - Successfully downloaded image to: data/electronics/electronics_14.jpg
+2024-10-25 01:48:41,976 - INFO - Successfully downloaded: electronics_14.jpg
+2024-10-25 01:48:45,733 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/41F4LmKQeoL._AC_UY218_.jpg
+2024-10-25 01:48:45,868 - INFO - Successfully downloaded image to: data/electronics/electronics_15.jpg
+2024-10-25 01:48:45,869 - INFO - Successfully downloaded: electronics_15.jpg
+2024-10-25 01:48:49,795 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/111mHoVK0kL._SS200_.png
+2024-10-25 01:48:49,881 - INFO - Successfully downloaded image to: data/electronics/electronics_16.jpg
+2024-10-25 01:48:49,883 - INFO - Successfully downloaded: electronics_16.jpg
+2024-10-25 01:48:53,906 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81djh1gfUwL._AC_UY218_.jpg
+2024-10-25 01:48:53,995 - INFO - Successfully downloaded image to: data/electronics/electronics_17.jpg
+2024-10-25 01:48:53,996 - INFO - Successfully downloaded: electronics_17.jpg
+2024-10-25 01:48:58,445 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/11++B3A2NEL._SS200_.png
+2024-10-25 01:48:58,500 - INFO - Successfully downloaded image to: data/electronics/electronics_18.jpg
+2024-10-25 01:48:58,501 - INFO - Successfully downloaded: electronics_18.jpg
+2024-10-25 01:49:01,260 - INFO - Successfully completed scraping for category: electronics
+2024-10-25 01:49:01,261 - INFO - Starting to scrape category: books
+2024-10-25 01:49:01,261 - INFO - Starting to scrape category: books
+2024-10-25 01:49:01,261 - INFO - Attempting to fetch https://www.amazon.com/s?k=books (attempt 1/3)
+2024-10-25 01:49:01,349 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:49:06,193 - INFO - Attempting to fetch https://www.amazon.com/s?k=books (attempt 2/3)
+2024-10-25 01:49:06,282 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:49:10,974 - INFO - Attempting to fetch https://www.amazon.com/s?k=books (attempt 3/3)
+2024-10-25 01:49:11,063 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:49:11,063 - ERROR - Error scraping category books: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=books
+2024-10-25 01:49:11,063 - INFO - Successfully completed scraping for category: books
+2024-10-25 01:49:11,063 - INFO - Starting to scrape category: fashion
+2024-10-25 01:49:11,063 - INFO - Starting to scrape category: fashion
+2024-10-25 01:49:11,064 - INFO - Attempting to fetch https://www.amazon.com/s?k=fashion (attempt 1/3)
+2024-10-25 01:49:11,151 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:49:15,962 - INFO - Attempting to fetch https://www.amazon.com/s?k=fashion (attempt 2/3)
+2024-10-25 01:49:16,241 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:49:20,212 - INFO - Attempting to fetch https://www.amazon.com/s?k=fashion (attempt 3/3)
+2024-10-25 01:49:20,306 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:49:20,306 - ERROR - Error scraping category fashion: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=fashion
+2024-10-25 01:49:20,306 - INFO - Successfully completed scraping for category: fashion
+2024-10-25 01:49:20,306 - INFO - Starting to scrape category: home_kitchen
+2024-10-25 01:49:20,306 - INFO - Starting to scrape category: home_kitchen
+2024-10-25 01:49:20,307 - INFO - Attempting to fetch https://www.amazon.com/s?k=home+and+kitchen (attempt 1/3)
+2024-10-25 01:49:20,393 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=home+and+kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:49:23,641 - INFO - Attempting to fetch https://www.amazon.com/s?k=home+and+kitchen (attempt 2/3)
+2024-10-25 01:49:23,728 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=home+and+kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:49:28,471 - INFO - Attempting to fetch https://www.amazon.com/s?k=home+and+kitchen (attempt 3/3)
+2024-10-25 01:49:28,555 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=home+and+kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:49:28,555 - ERROR - Error scraping category home_kitchen: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=home+and+kitchen
+2024-10-25 01:49:28,555 - INFO - Successfully completed scraping for category: home_kitchen
+2024-10-25 01:49:28,555 - INFO - Starting to scrape category: toys_games
+2024-10-25 01:49:28,555 - INFO - Starting to scrape category: toys_games
+2024-10-25 01:49:28,556 - INFO - Attempting to fetch https://www.amazon.com/s?k=toys+and+games (attempt 1/3)
+2024-10-25 01:49:28,651 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=toys+and+games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:49:33,564 - INFO - Attempting to fetch https://www.amazon.com/s?k=toys+and+games (attempt 2/3)
+2024-10-25 01:49:33,653 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=toys+and+games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:49:37,956 - INFO - Attempting to fetch https://www.amazon.com/s?k=toys+and+games (attempt 3/3)
+2024-10-25 01:49:38,044 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=toys+and+games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:49:38,044 - ERROR - Error scraping category toys_games: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=toys+and+games
+2024-10-25 01:49:38,044 - INFO - Successfully completed scraping for category: toys_games
+2024-10-25 01:49:38,044 - INFO - Starting to scrape category: sports_outdoors
+2024-10-25 01:49:38,044 - INFO - Starting to scrape category: sports_outdoors
+2024-10-25 01:49:38,044 - INFO - Attempting to fetch https://www.amazon.com/s?k=sports+and+outdoors (attempt 1/3)
+2024-10-25 01:49:38,132 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=sports+and+outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:49:40,287 - INFO - Attempting to fetch https://www.amazon.com/s?k=sports+and+outdoors (attempt 2/3)
+2024-10-25 01:49:40,376 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=sports+and+outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:49:42,853 - INFO - Attempting to fetch https://www.amazon.com/s?k=sports+and+outdoors (attempt 3/3)
+2024-10-25 01:49:42,946 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=sports+and+outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:49:42,946 - ERROR - Error scraping category sports_outdoors: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=sports+and+outdoors
+2024-10-25 01:49:42,946 - INFO - Successfully completed scraping for category: sports_outdoors
+2024-10-25 01:49:42,946 - INFO - Starting to scrape category: beauty
+2024-10-25 01:49:42,946 - INFO - Starting to scrape category: beauty
+2024-10-25 01:49:42,947 - INFO - Attempting to fetch https://www.amazon.com/s?k=beauty (attempt 1/3)
+2024-10-25 01:49:43,034 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=beauty: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=beauty
+2024-10-25 01:49:46,514 - INFO - Attempting to fetch https://www.amazon.com/s?k=beauty (attempt 2/3)
+2024-10-25 01:49:46,603 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=beauty: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=beauty
+2024-10-25 01:49:50,035 - INFO - Attempting to fetch https://www.amazon.com/s?k=beauty (attempt 3/3)
+2024-10-25 01:49:51,975 - INFO - Successfully fetched page: https://www.amazon.com/s?k=beauty
+2024-10-25 01:49:52,208 - INFO - Searching for image elements in the page
+2024-10-25 01:49:52,226 - INFO - Found 55 images using selector: img.s-image
+2024-10-25 01:49:52,246 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:49:52,263 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:49:52,281 - INFO - Found 51 images using selector: img[srcset]
+2024-10-25 01:49:52,281 - INFO - Found 52 images in beauty
+2024-10-25 01:49:52,282 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81XAS27-rdL._AC_UL320_.jpg
+2024-10-25 01:49:52,365 - INFO - Successfully downloaded image to: data/beauty/beauty_1.jpg
+2024-10-25 01:49:52,366 - INFO - Successfully downloaded: beauty_1.jpg
+2024-10-25 01:49:55,756 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71T2zHa5qVL._AC_UL320_.jpg
+2024-10-25 01:49:55,840 - INFO - Successfully downloaded image to: data/beauty/beauty_2.jpg
+2024-10-25 01:49:55,841 - INFO - Successfully downloaded: beauty_2.jpg
+2024-10-25 01:49:58,898 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81jQG6OJ6ML._AC_UL320_.jpg
+2024-10-25 01:49:59,067 - INFO - Successfully downloaded image to: data/beauty/beauty_3.jpg
+2024-10-25 01:49:59,068 - INFO - Successfully downloaded: beauty_3.jpg
+2024-10-25 01:50:01,642 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/613Cca7xqfL._AC_UL320_.jpg
+2024-10-25 01:50:01,724 - INFO - Successfully downloaded image to: data/beauty/beauty_4.jpg
+2024-10-25 01:50:01,725 - INFO - Successfully downloaded: beauty_4.jpg
+2024-10-25 01:50:06,286 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71Azno56mDL._AC_UL320_.jpg
+2024-10-25 01:50:06,341 - INFO - Successfully downloaded image to: data/beauty/beauty_5.jpg
+2024-10-25 01:50:06,343 - INFO - Successfully downloaded: beauty_5.jpg
+2024-10-25 01:50:11,196 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/711ZJU41ooL._AC_UL320_.jpg
+2024-10-25 01:50:11,286 - INFO - Successfully downloaded image to: data/beauty/beauty_6.jpg
+2024-10-25 01:50:11,287 - INFO - Successfully downloaded: beauty_6.jpg
+2024-10-25 01:50:13,888 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51uYGqzHXPL._AC_UL320_.jpg
+2024-10-25 01:50:13,938 - INFO - Successfully downloaded image to: data/beauty/beauty_7.jpg
+2024-10-25 01:50:13,939 - INFO - Successfully downloaded: beauty_7.jpg
+2024-10-25 01:50:17,493 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51OIfx4R6mL._AC_UL320_.jpg
+2024-10-25 01:50:17,541 - INFO - Successfully downloaded image to: data/beauty/beauty_8.jpg
+2024-10-25 01:50:17,543 - INFO - Successfully downloaded: beauty_8.jpg
+2024-10-25 01:50:20,418 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51299uVd3YL._AC_UL320_.jpg
+2024-10-25 01:50:20,534 - INFO - Successfully downloaded image to: data/beauty/beauty_9.jpg
+2024-10-25 01:50:20,535 - INFO - Successfully downloaded: beauty_9.jpg
+2024-10-25 01:50:24,911 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61K6cQhw4EL._AC_UL320_.jpg
+2024-10-25 01:50:25,003 - INFO - Successfully downloaded image to: data/beauty/beauty_10.jpg
+2024-10-25 01:50:25,004 - INFO - Successfully downloaded: beauty_10.jpg
+2024-10-25 01:50:28,521 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/11++B3A2NEL._SS200_.png
+2024-10-25 01:50:28,568 - INFO - Successfully downloaded image to: data/beauty/beauty_11.jpg
+2024-10-25 01:50:28,570 - INFO - Successfully downloaded: beauty_11.jpg
+2024-10-25 01:50:33,387 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51-ok76VPHL._AC_UL320_.jpg
+2024-10-25 01:50:33,435 - INFO - Successfully downloaded image to: data/beauty/beauty_12.jpg
+2024-10-25 01:50:33,437 - INFO - Successfully downloaded: beauty_12.jpg
+2024-10-25 01:50:37,564 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51Ai6H0YFDL._AC_UL320_.jpg
+2024-10-25 01:50:37,637 - INFO - Successfully downloaded image to: data/beauty/beauty_13.jpg
+2024-10-25 01:50:37,638 - INFO - Successfully downloaded: beauty_13.jpg
+2024-10-25 01:50:41,064 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61cQmKA-SQL._AC_UL320_.jpg
+2024-10-25 01:50:41,117 - INFO - Successfully downloaded image to: data/beauty/beauty_14.jpg
+2024-10-25 01:50:41,118 - INFO - Successfully downloaded: beauty_14.jpg
+2024-10-25 01:50:45,935 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71x8eJYN4JL._AC_UL320_.jpg
+2024-10-25 01:50:45,986 - INFO - Successfully downloaded image to: data/beauty/beauty_15.jpg
+2024-10-25 01:50:45,988 - INFO - Successfully downloaded: beauty_15.jpg
+2024-10-25 01:50:50,203 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61KedtnoewL._AC_UL320_.jpg
+2024-10-25 01:50:50,254 - INFO - Successfully downloaded image to: data/beauty/beauty_16.jpg
+2024-10-25 01:50:50,256 - INFO - Successfully downloaded: beauty_16.jpg
+2024-10-25 01:50:53,628 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/618NFh2d3HL._AC_UL320_.jpg
+2024-10-25 01:50:53,682 - INFO - Successfully downloaded image to: data/beauty/beauty_17.jpg
+2024-10-25 01:50:53,684 - INFO - Successfully downloaded: beauty_17.jpg
+2024-10-25 01:50:58,650 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61-pzaXA96L._AC_UL320_.jpg
+2024-10-25 01:50:58,756 - INFO - Successfully downloaded image to: data/beauty/beauty_18.jpg
+2024-10-25 01:50:58,757 - INFO - Successfully downloaded: beauty_18.jpg
+2024-10-25 01:51:02,146 - INFO - Starting Amazon product image scraper
+2024-10-25 01:51:02,146 - INFO - Python version: 3.11.9 (main, Apr  2 2024, 08:25:04) [GCC 13.3.0]
+2024-10-25 01:51:02,147 - INFO - Created directories for categories in data
+2024-10-25 01:51:02,147 - INFO - Starting to scrape category: backpack
+2024-10-25 01:51:02,147 - INFO - Starting to scrape category: backpack
+2024-10-25 01:51:02,148 - INFO - Attempting to fetch https://www.amazon.com/s?k=backpack (attempt 1/3)
+2024-10-25 01:51:06,004 - INFO - Successfully fetched page: https://www.amazon.com/s?k=backpack
+2024-10-25 01:51:06,233 - INFO - Searching for image elements in the page
+2024-10-25 01:51:06,253 - INFO - Found 25 images using selector: img.s-image
+2024-10-25 01:51:06,269 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:51:06,284 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:51:06,301 - INFO - Found 21 images using selector: img[srcset]
+2024-10-25 01:51:06,301 - INFO - Found 19 images in backpack
+2024-10-25 01:51:06,301 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81WjalMN8mL._AC_UY218_.jpg
+2024-10-25 01:51:06,398 - INFO - Successfully downloaded image to: data/backpack/backpack_1.jpg
+2024-10-25 01:51:06,399 - INFO - Successfully downloaded: backpack_1.jpg
+2024-10-25 01:51:09,542 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71olG7l8KlL._AC_UY218_.jpg
+2024-10-25 01:51:09,600 - INFO - Successfully downloaded image to: data/backpack/backpack_2.jpg
+2024-10-25 01:51:09,601 - INFO - Successfully downloaded: backpack_2.jpg
+2024-10-25 01:51:10,704 - INFO - Starting Amazon product image scraper
+2024-10-25 01:51:10,704 - INFO - Python version: 3.11.9 (main, Apr  2 2024, 08:25:04) [GCC 13.3.0]
+2024-10-25 01:51:10,704 - INFO - Created directories for categories in data
+2024-10-25 01:51:10,704 - INFO - Starting to scrape category: backpack
+2024-10-25 01:51:10,705 - INFO - Starting to scrape category: backpack
+2024-10-25 01:51:10,705 - INFO - Attempting to fetch https://www.amazon.com/s?k=backpack (attempt 1/3)
+2024-10-25 01:51:12,431 - INFO - Successfully fetched page: https://www.amazon.com/s?k=backpack
+2024-10-25 01:51:12,633 - INFO - Searching for image elements in the page
+2024-10-25 01:51:12,650 - INFO - Found 26 images using selector: img.s-image
+2024-10-25 01:51:12,667 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:51:12,683 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:51:12,701 - INFO - Found 20 images using selector: img[srcset]
+2024-10-25 01:51:12,702 - INFO - Found 19 images in backpack
+2024-10-25 01:51:12,702 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71yPO5Ks7jL._AC_UL640_QL65_.jpg
+2024-10-25 01:51:12,752 - INFO - Successfully downloaded image to: data/backpack/backpack_1.jpg
+2024-10-25 01:51:12,754 - INFO - Successfully downloaded: backpack_1.jpg
+2024-10-25 01:51:13,444 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/816eG81cCSL._AC_UY218_.jpg
+2024-10-25 01:51:13,554 - INFO - Successfully downloaded image to: data/backpack/backpack_3.jpg
+2024-10-25 01:51:13,555 - INFO - Successfully downloaded: backpack_3.jpg
+2024-10-25 01:51:15,360 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71olG7l8KlL._AC_UY218_.jpg
+2024-10-25 01:51:15,411 - INFO - Successfully downloaded image to: data/backpack/backpack_2.jpg
+2024-10-25 01:51:15,413 - INFO - Successfully downloaded: backpack_2.jpg
+2024-10-25 01:51:15,641 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/716-ufSNJ5L._AC_UY218_.jpg
+2024-10-25 01:51:15,723 - INFO - Successfully downloaded image to: data/backpack/backpack_4.jpg
+2024-10-25 01:51:15,724 - INFO - Successfully downloaded: backpack_4.jpg
+2024-10-25 01:51:17,528 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71b85TcyISL._AC_UY218_.jpg
+2024-10-25 01:51:17,583 - INFO - Successfully downloaded image to: data/backpack/backpack_3.jpg
+2024-10-25 01:51:17,584 - INFO - Successfully downloaded: backpack_3.jpg
+2024-10-25 01:51:19,729 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/716-ufSNJ5L._AC_UY218_.jpg
+2024-10-25 01:51:19,866 - INFO - Successfully downloaded image to: data/backpack/backpack_4.jpg
+2024-10-25 01:51:19,870 - INFO - Successfully downloaded: backpack_4.jpg
+2024-10-25 01:51:20,370 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61Ns-H-YLtL._AC_UY218_.jpg
+2024-10-25 01:51:20,506 - INFO - Successfully downloaded image to: data/backpack/backpack_5.jpg
+2024-10-25 01:51:20,508 - INFO - Successfully downloaded: backpack_5.jpg
+2024-10-25 01:51:23,978 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81CPFz7LrGL._AC_UY218_.jpg
+2024-10-25 01:51:24,034 - INFO - Successfully downloaded image to: data/backpack/backpack_6.jpg
+2024-10-25 01:51:24,036 - INFO - Successfully downloaded: backpack_6.jpg
+2024-10-25 01:51:24,352 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/11++B3A2NEL._SS200_.png
+2024-10-25 01:51:24,411 - INFO - Successfully downloaded image to: data/backpack/backpack_5.jpg
+2024-10-25 01:51:24,412 - INFO - Successfully downloaded: backpack_5.jpg
+2024-10-25 01:51:27,357 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51r6v5HdiiL._AC_UY218_.jpg
+2024-10-25 01:51:27,406 - INFO - Successfully downloaded image to: data/backpack/backpack_6.jpg
+2024-10-25 01:51:27,408 - INFO - Successfully downloaded: backpack_6.jpg
+2024-10-25 01:51:27,919 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81idlqFqcUL._AC_UY218_.jpg
+2024-10-25 01:51:27,976 - INFO - Successfully downloaded image to: data/backpack/backpack_7.jpg
+2024-10-25 01:51:27,977 - INFO - Successfully downloaded: backpack_7.jpg
+2024-10-25 01:51:29,587 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81g+yVaD0TL._AC_UY218_.jpg
+2024-10-25 01:51:29,647 - INFO - Successfully downloaded image to: data/backpack/backpack_7.jpg
+2024-10-25 01:51:29,648 - INFO - Successfully downloaded: backpack_7.jpg
+2024-10-25 01:51:32,441 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81g+yVaD0TL._AC_UY218_.jpg
+2024-10-25 01:51:32,493 - INFO - Successfully downloaded image to: data/backpack/backpack_8.jpg
+2024-10-25 01:51:32,494 - INFO - Successfully downloaded: backpack_8.jpg
+2024-10-25 01:51:32,666 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81Z+LmK0clL._AC_UY218_.jpg
+2024-10-25 01:51:32,723 - INFO - Successfully downloaded image to: data/backpack/backpack_8.jpg
+2024-10-25 01:51:32,724 - INFO - Successfully downloaded: backpack_8.jpg
+2024-10-25 01:51:34,764 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71j-s9bWcHL._AC_UY218_.jpg
+2024-10-25 01:51:34,818 - INFO - Successfully downloaded image to: data/backpack/backpack_9.jpg
+2024-10-25 01:51:34,819 - INFO - Successfully downloaded: backpack_9.jpg
+2024-10-25 01:51:35,961 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/11++B3A2NEL._SS200_.png
+2024-10-25 01:51:36,015 - INFO - Successfully downloaded image to: data/backpack/backpack_9.jpg
+2024-10-25 01:51:36,016 - INFO - Successfully downloaded: backpack_9.jpg
+2024-10-25 01:51:37,611 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/816eG81cCSL._AC_UY218_.jpg
+2024-10-25 01:51:37,668 - INFO - Successfully downloaded image to: data/backpack/backpack_10.jpg
+2024-10-25 01:51:37,669 - INFO - Successfully downloaded: backpack_10.jpg
+2024-10-25 01:51:39,542 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/819sBhOVOqL._AC_UY218_.jpg
+2024-10-25 01:51:39,607 - INFO - Successfully downloaded image to: data/backpack/backpack_10.jpg
+2024-10-25 01:51:39,608 - INFO - Successfully downloaded: backpack_10.jpg
+2024-10-25 01:51:39,879 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71VQl1X3DqL._AC_UY218_.jpg
+2024-10-25 01:51:39,934 - INFO - Successfully downloaded image to: data/backpack/backpack_11.jpg
+2024-10-25 01:51:39,935 - INFO - Successfully downloaded: backpack_11.jpg
+2024-10-25 01:51:42,889 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71yPO5Ks7jL._AC_UL640_QL65_.jpg
+2024-10-25 01:51:42,898 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81gk0hAW41L._AC_UL640_QL65_.jpg
+2024-10-25 01:51:42,951 - INFO - Successfully downloaded image to: data/backpack/backpack_12.jpg
+2024-10-25 01:51:42,952 - INFO - Successfully downloaded: backpack_12.jpg
+2024-10-25 01:51:42,958 - INFO - Successfully downloaded image to: data/backpack/backpack_11.jpg
+2024-10-25 01:51:42,960 - INFO - Successfully downloaded: backpack_11.jpg
+2024-10-25 01:51:45,237 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81gk0hAW41L._AC_UL640_QL65_.jpg
+2024-10-25 01:51:45,286 - INFO - Successfully downloaded image to: data/backpack/backpack_12.jpg
+2024-10-25 01:51:45,288 - INFO - Successfully downloaded: backpack_12.jpg
+2024-10-25 01:51:46,879 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81idlqFqcUL._AC_UY218_.jpg
+2024-10-25 01:51:46,943 - INFO - Successfully downloaded image to: data/backpack/backpack_13.jpg
+2024-10-25 01:51:46,944 - INFO - Successfully downloaded: backpack_13.jpg
+2024-10-25 01:51:49,113 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51x1v9XJ80L._AC_UY218_.jpg
+2024-10-25 01:51:49,165 - INFO - Successfully downloaded image to: data/backpack/backpack_14.jpg
+2024-10-25 01:51:49,166 - INFO - Successfully downloaded: backpack_14.jpg
+2024-10-25 01:51:49,978 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51r6v5HdiiL._AC_UY218_.jpg
+2024-10-25 01:51:50,034 - INFO - Successfully downloaded image to: data/backpack/backpack_13.jpg
+2024-10-25 01:51:50,035 - INFO - Successfully downloaded: backpack_13.jpg
+2024-10-25 01:51:52,393 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61YKKRDbm+L._AC_UY218_.jpg
+2024-10-25 01:51:52,442 - INFO - Successfully downloaded image to: data/backpack/backpack_15.jpg
+2024-10-25 01:51:52,443 - INFO - Successfully downloaded: backpack_15.jpg
+2024-10-25 01:51:54,536 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71VQl1X3DqL._AC_UY218_.jpg
+2024-10-25 01:51:54,599 - INFO - Successfully downloaded image to: data/backpack/backpack_14.jpg
+2024-10-25 01:51:54,600 - INFO - Successfully downloaded: backpack_14.jpg
+2024-10-25 01:51:57,403 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71j-s9bWcHL._AC_UY218_.jpg
+2024-10-25 01:51:57,428 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61Ns-H-YLtL._AC_UY218_.jpg
+2024-10-25 01:51:57,516 - INFO - Successfully downloaded image to: data/backpack/backpack_16.jpg
+2024-10-25 01:51:57,517 - INFO - Successfully downloaded: backpack_16.jpg
+2024-10-25 01:51:57,574 - INFO - Successfully downloaded image to: data/backpack/backpack_15.jpg
+2024-10-25 01:51:57,575 - INFO - Successfully downloaded: backpack_15.jpg
+2024-10-25 01:52:01,394 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81viDwch+yL._AC_UY218_.jpg
+2024-10-25 01:52:01,456 - INFO - Successfully downloaded image to: data/backpack/backpack_17.jpg
+2024-10-25 01:52:01,457 - INFO - Successfully downloaded: backpack_17.jpg
+2024-10-25 01:52:01,613 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81Z+LmK0clL._AC_UY218_.jpg
+2024-10-25 01:52:01,661 - INFO - Successfully downloaded image to: data/backpack/backpack_16.jpg
+2024-10-25 01:52:01,662 - INFO - Successfully downloaded: backpack_16.jpg
+2024-10-25 01:52:03,946 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81WjalMN8mL._AC_UY218_.jpg
+2024-10-25 01:52:04,000 - INFO - Successfully downloaded image to: data/backpack/backpack_18.jpg
+2024-10-25 01:52:04,002 - INFO - Successfully downloaded: backpack_18.jpg
+2024-10-25 01:52:04,037 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81viDwch+yL._AC_UY218_.jpg
+2024-10-25 01:52:04,086 - INFO - Successfully downloaded image to: data/backpack/backpack_17.jpg
+2024-10-25 01:52:04,087 - INFO - Successfully downloaded: backpack_17.jpg
+2024-10-25 01:52:06,565 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71dSFoYUAXL._AC_UY218_.jpg
+2024-10-25 01:52:06,688 - INFO - Successfully downloaded image to: data/backpack/backpack_19.jpg
+2024-10-25 01:52:06,689 - INFO - Successfully downloaded: backpack_19.jpg
+2024-10-25 01:52:07,150 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51x1v9XJ80L._AC_UY218_.jpg
+2024-10-25 01:52:07,200 - INFO - Successfully downloaded image to: data/backpack/backpack_18.jpg
+2024-10-25 01:52:07,201 - INFO - Successfully downloaded: backpack_18.jpg
+2024-10-25 01:52:10,069 - INFO - Successfully completed scraping for category: backpack
+2024-10-25 01:52:10,070 - INFO - Starting to scrape category: bike
+2024-10-25 01:52:10,070 - INFO - Starting to scrape category: bike
+2024-10-25 01:52:10,070 - INFO - Attempting to fetch https://www.amazon.com/s?k=bicycle (attempt 1/3)
+2024-10-25 01:52:10,158 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=bicycle: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=bicycle
+2024-10-25 01:52:10,297 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71b85TcyISL._AC_UY218_.jpg
+2024-10-25 01:52:10,352 - INFO - Successfully downloaded image to: data/backpack/backpack_19.jpg
+2024-10-25 01:52:10,353 - INFO - Successfully downloaded: backpack_19.jpg
+2024-10-25 01:52:12,936 - INFO - Attempting to fetch https://www.amazon.com/s?k=bicycle (attempt 2/3)
+2024-10-25 01:52:13,691 - INFO - Successfully completed scraping for category: backpack
+2024-10-25 01:52:13,691 - INFO - Starting to scrape category: bike
+2024-10-25 01:52:13,691 - INFO - Starting to scrape category: bike
+2024-10-25 01:52:13,691 - INFO - Attempting to fetch https://www.amazon.com/s?k=bicycle (attempt 1/3)
+2024-10-25 01:52:13,789 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=bicycle: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=bicycle
+2024-10-25 01:52:14,209 - INFO - Successfully fetched page: https://www.amazon.com/s?k=bicycle
+2024-10-25 01:52:14,389 - INFO - Searching for image elements in the page
+2024-10-25 01:52:14,402 - INFO - Found 21 images using selector: img.s-image
+2024-10-25 01:52:14,418 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:52:14,431 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:52:14,444 - INFO - Found 25 images using selector: img[srcset]
+2024-10-25 01:52:14,444 - INFO - Found 19 images in bike
+2024-10-25 01:52:14,445 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81BADe3mSFL._AC_UY218_.jpg
+2024-10-25 01:52:14,496 - INFO - Successfully downloaded image to: data/bike/bike_1.jpg
+2024-10-25 01:52:14,496 - INFO - Successfully downloaded: bike_1.jpg
+2024-10-25 01:52:16,026 - INFO - Attempting to fetch https://www.amazon.com/s?k=bicycle (attempt 2/3)
+2024-10-25 01:52:16,175 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=bicycle: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=bicycle
+2024-10-25 01:52:17,647 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/111mHoVK0kL._SS200_.png
+2024-10-25 01:52:17,696 - INFO - Successfully downloaded image to: data/bike/bike_2.jpg
+2024-10-25 01:52:17,697 - INFO - Successfully downloaded: bike_2.jpg
+2024-10-25 01:52:18,327 - INFO - Attempting to fetch https://www.amazon.com/s?k=bicycle (attempt 3/3)
+2024-10-25 01:52:18,608 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=bicycle: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=bicycle
+2024-10-25 01:52:18,609 - ERROR - Error scraping category bike: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=bicycle
+2024-10-25 01:52:18,609 - INFO - Successfully completed scraping for category: bike
+2024-10-25 01:52:18,609 - INFO - Starting to scrape category: calculator
+2024-10-25 01:52:18,609 - INFO - Starting to scrape category: calculator
+2024-10-25 01:52:18,609 - INFO - Attempting to fetch https://www.amazon.com/s?k=calculator (attempt 1/3)
+2024-10-25 01:52:18,694 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=calculator: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=calculator
+2024-10-25 01:52:21,726 - INFO - Attempting to fetch https://www.amazon.com/s?k=calculator (attempt 2/3)
+2024-10-25 01:52:21,812 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=calculator: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=calculator
+2024-10-25 01:52:22,235 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/717Tr9wI+6L._AC_UY218_.jpg
+2024-10-25 01:52:22,341 - INFO - Successfully downloaded image to: data/bike/bike_3.jpg
+2024-10-25 01:52:22,342 - INFO - Successfully downloaded: bike_3.jpg
+2024-10-25 01:52:25,147 - INFO - Attempting to fetch https://www.amazon.com/s?k=calculator (attempt 3/3)
+2024-10-25 01:52:25,231 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=calculator: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=calculator
+2024-10-25 01:52:25,231 - ERROR - Error scraping category calculator: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=calculator
+2024-10-25 01:52:25,231 - INFO - Successfully completed scraping for category: calculator
+2024-10-25 01:52:25,231 - INFO - Starting to scrape category: headphones
+2024-10-25 01:52:25,231 - INFO - Starting to scrape category: headphones
+2024-10-25 01:52:25,231 - INFO - Attempting to fetch https://www.amazon.com/s?k=headphones (attempt 1/3)
+2024-10-25 01:52:25,314 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=headphones: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=headphones
+2024-10-25 01:52:26,713 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71n8aysGKIL._AC_UY218_.jpg
+2024-10-25 01:52:26,761 - INFO - Successfully downloaded image to: data/bike/bike_4.jpg
+2024-10-25 01:52:26,762 - INFO - Successfully downloaded: bike_4.jpg
+2024-10-25 01:52:27,638 - INFO - Attempting to fetch https://www.amazon.com/s?k=headphones (attempt 2/3)
+2024-10-25 01:52:27,725 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=headphones: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=headphones
+2024-10-25 01:52:29,619 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/91MqcxxSzFL._AC_UY218_.jpg
+2024-10-25 01:52:29,672 - INFO - Successfully downloaded image to: data/bike/bike_5.jpg
+2024-10-25 01:52:29,673 - INFO - Successfully downloaded: bike_5.jpg
+2024-10-25 01:52:32,132 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81IMZ+36fkL._AC_UY218_.jpg
+2024-10-25 01:52:32,236 - INFO - Successfully downloaded image to: data/bike/bike_6.jpg
+2024-10-25 01:52:32,238 - INFO - Successfully downloaded: bike_6.jpg
+2024-10-25 01:52:32,582 - INFO - Attempting to fetch https://www.amazon.com/s?k=headphones (attempt 3/3)
+2024-10-25 01:52:32,670 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=headphones: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=headphones
+2024-10-25 01:52:32,670 - ERROR - Error scraping category headphones: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=headphones
+2024-10-25 01:52:32,670 - INFO - Successfully completed scraping for category: headphones
+2024-10-25 01:52:32,671 - INFO - Starting to scrape category: keyboard
+2024-10-25 01:52:32,671 - INFO - Starting to scrape category: keyboard
+2024-10-25 01:52:32,671 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+keyboard (attempt 1/3)
+2024-10-25 01:52:32,757 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=computer+keyboard: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+keyboard
+2024-10-25 01:52:35,639 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+keyboard (attempt 2/3)
+2024-10-25 01:52:35,676 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71X+l+AirLL._AC_UY218_.jpg
+2024-10-25 01:52:35,723 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=computer+keyboard: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+keyboard
+2024-10-25 01:52:35,739 - INFO - Successfully downloaded image to: data/bike/bike_7.jpg
+2024-10-25 01:52:35,741 - INFO - Successfully downloaded: bike_7.jpg
+2024-10-25 01:52:38,325 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71w7wgGUeVL._AC_UY218_.jpg
+2024-10-25 01:52:38,438 - INFO - Successfully downloaded image to: data/bike/bike_8.jpg
+2024-10-25 01:52:38,440 - INFO - Successfully downloaded: bike_8.jpg
+2024-10-25 01:52:39,028 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+keyboard (attempt 3/3)
+2024-10-25 01:52:39,116 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=computer+keyboard: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+keyboard
+2024-10-25 01:52:39,116 - ERROR - Error scraping category keyboard: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+keyboard
+2024-10-25 01:52:39,116 - INFO - Successfully completed scraping for category: keyboard
+2024-10-25 01:52:39,117 - INFO - Starting to scrape category: laptop
+2024-10-25 01:52:39,117 - INFO - Starting to scrape category: laptop
+2024-10-25 01:52:39,117 - INFO - Attempting to fetch https://www.amazon.com/s?k=laptop (attempt 1/3)
+2024-10-25 01:52:39,201 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=laptop: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=laptop
+2024-10-25 01:52:42,666 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71M+7oTjSvL._AC_UY218_.jpg
+2024-10-25 01:52:42,720 - INFO - Successfully downloaded image to: data/bike/bike_9.jpg
+2024-10-25 01:52:42,721 - INFO - Successfully downloaded: bike_9.jpg
+2024-10-25 01:52:42,880 - INFO - Attempting to fetch https://www.amazon.com/s?k=laptop (attempt 2/3)
+2024-10-25 01:52:43,164 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=laptop: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=laptop
+2024-10-25 01:52:44,858 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71vVG6qgAYL._AC_UY218_.jpg
+2024-10-25 01:52:44,925 - INFO - Successfully downloaded image to: data/bike/bike_10.jpg
+2024-10-25 01:52:44,926 - INFO - Successfully downloaded: bike_10.jpg
+2024-10-25 01:52:47,961 - INFO - Attempting to fetch https://www.amazon.com/s?k=laptop (attempt 3/3)
+2024-10-25 01:52:48,049 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=laptop: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=laptop
+2024-10-25 01:52:48,050 - ERROR - Error scraping category laptop: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=laptop
+2024-10-25 01:52:48,050 - INFO - Successfully completed scraping for category: laptop
+2024-10-25 01:52:48,050 - INFO - Starting to scrape category: monitor
+2024-10-25 01:52:48,051 - INFO - Starting to scrape category: monitor
+2024-10-25 01:52:48,051 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+monitor (attempt 1/3)
+2024-10-25 01:52:48,141 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=computer+monitor: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+monitor
+2024-10-25 01:52:48,907 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71BEsa+G2dL._AC_UY218_.jpg
+2024-10-25 01:52:49,023 - INFO - Successfully downloaded image to: data/bike/bike_11.jpg
+2024-10-25 01:52:49,025 - INFO - Successfully downloaded: bike_11.jpg
+2024-10-25 01:52:50,346 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+monitor (attempt 2/3)
+2024-10-25 01:52:50,432 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=computer+monitor: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+monitor
+2024-10-25 01:52:52,824 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+monitor (attempt 3/3)
+2024-10-25 01:52:52,912 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=computer+monitor: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+monitor
+2024-10-25 01:52:52,912 - ERROR - Error scraping category monitor: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+monitor
+2024-10-25 01:52:52,912 - INFO - Successfully completed scraping for category: monitor
+2024-10-25 01:52:52,912 - INFO - Starting to scrape category: mouse
+2024-10-25 01:52:52,912 - INFO - Starting to scrape category: mouse
+2024-10-25 01:52:52,912 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+mouse (attempt 1/3)
+2024-10-25 01:52:53,000 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=computer+mouse: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+mouse
+2024-10-25 01:52:53,081 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71WccOx2hML._AC_UL640_QL65_.jpg
+2024-10-25 01:52:53,140 - INFO - Successfully downloaded image to: data/bike/bike_12.jpg
+2024-10-25 01:52:53,141 - INFO - Successfully downloaded: bike_12.jpg
+2024-10-25 01:52:55,089 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+mouse (attempt 2/3)
+2024-10-25 01:52:55,177 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=computer+mouse: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+mouse
+2024-10-25 01:52:57,182 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71eWhHDzSbL._AC_UY218_.jpg
+2024-10-25 01:52:57,249 - INFO - Successfully downloaded image to: data/bike/bike_13.jpg
+2024-10-25 01:52:57,251 - INFO - Successfully downloaded: bike_13.jpg
+2024-10-25 01:52:58,494 - INFO - Attempting to fetch https://www.amazon.com/s?k=computer+mouse (attempt 3/3)
+2024-10-25 01:52:58,591 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=computer+mouse: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+mouse
+2024-10-25 01:52:58,591 - ERROR - Error scraping category mouse: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=computer+mouse
+2024-10-25 01:52:58,591 - INFO - Successfully completed scraping for category: mouse
+2024-10-25 01:52:58,591 - INFO - Starting to scrape category: mug
+2024-10-25 01:52:58,591 - INFO - Starting to scrape category: mug
+2024-10-25 01:52:58,591 - INFO - Attempting to fetch https://www.amazon.com/s?k=coffee+mug (attempt 1/3)
+2024-10-25 01:52:58,677 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=coffee+mug: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=coffee+mug
+2024-10-25 01:53:00,243 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81kU2y+ARZL._AC_UY218_.jpg
+2024-10-25 01:53:00,295 - INFO - Successfully downloaded image to: data/bike/bike_14.jpg
+2024-10-25 01:53:00,296 - INFO - Successfully downloaded: bike_14.jpg
+2024-10-25 01:53:01,627 - INFO - Attempting to fetch https://www.amazon.com/s?k=coffee+mug (attempt 2/3)
+2024-10-25 01:53:01,713 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=coffee+mug: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=coffee+mug
+2024-10-25 01:53:03,582 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/818BQcIhxIL._AC_UY218_.jpg
+2024-10-25 01:53:03,700 - INFO - Successfully downloaded image to: data/bike/bike_15.jpg
+2024-10-25 01:53:03,701 - INFO - Successfully downloaded: bike_15.jpg
+2024-10-25 01:53:04,703 - INFO - Attempting to fetch https://www.amazon.com/s?k=coffee+mug (attempt 3/3)
+2024-10-25 01:53:04,793 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=coffee+mug: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=coffee+mug
+2024-10-25 01:53:04,797 - ERROR - Error scraping category mug: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=coffee+mug
+2024-10-25 01:53:04,798 - INFO - Successfully completed scraping for category: mug
+2024-10-25 01:53:04,799 - INFO - Starting to scrape category: projector
+2024-10-25 01:53:04,800 - INFO - Starting to scrape category: projector
+2024-10-25 01:53:04,803 - INFO - Attempting to fetch https://www.amazon.com/s?k=projector (attempt 1/3)
+2024-10-25 01:53:04,893 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=projector: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=projector
+2024-10-25 01:53:06,124 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81JJzHtnJnL._AC_UY218_.jpg
+2024-10-25 01:53:06,321 - INFO - Successfully downloaded image to: data/bike/bike_16.jpg
+2024-10-25 01:53:06,322 - INFO - Successfully downloaded: bike_16.jpg
+2024-10-25 01:53:07,234 - INFO - Attempting to fetch https://www.amazon.com/s?k=projector (attempt 2/3)
+2024-10-25 01:53:07,329 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=projector: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=projector
+2024-10-25 01:53:10,544 - INFO - Attempting to fetch https://www.amazon.com/s?k=projector (attempt 3/3)
+2024-10-25 01:53:10,818 - ERROR - Attempt 3/3 failed for https://www.amazon.com/s?k=projector: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=projector
+2024-10-25 01:53:10,819 - ERROR - Error scraping category projector: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=projector
+2024-10-25 01:53:10,819 - INFO - Successfully completed scraping for category: projector
+2024-10-25 01:53:10,819 - INFO - Scraping completed. Success: 10, Failures: 0
+2024-10-25 01:53:11,282 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/816A6d84WBL._AC_UY218_.jpg
+2024-10-25 01:53:11,333 - INFO - Successfully downloaded image to: data/bike/bike_17.jpg
+2024-10-25 01:53:11,334 - INFO - Successfully downloaded: bike_17.jpg
+2024-10-25 01:53:14,607 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71TZ4ItpVML._AC_UY218_.jpg
+2024-10-25 01:53:14,679 - INFO - Successfully downloaded image to: data/bike/bike_18.jpg
+2024-10-25 01:53:14,680 - INFO - Successfully downloaded: bike_18.jpg
+2024-10-25 01:53:17,728 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81-nwjAkJpL._AC_UL640_QL65_.jpg
+2024-10-25 01:53:17,823 - INFO - Successfully downloaded image to: data/bike/bike_19.jpg
+2024-10-25 01:53:17,825 - INFO - Successfully downloaded: bike_19.jpg
+2024-10-25 01:53:20,674 - INFO - Successfully completed scraping for category: bike
+2024-10-25 01:53:20,674 - INFO - Starting to scrape category: calculator
+2024-10-25 01:53:20,674 - INFO - Starting to scrape category: calculator
+2024-10-25 01:53:20,674 - INFO - Attempting to fetch https://www.amazon.com/s?k=calculator (attempt 1/3)
+2024-10-25 01:53:22,720 - INFO - Successfully fetched page: https://www.amazon.com/s?k=calculator
+2024-10-25 01:53:22,872 - INFO - Searching for image elements in the page
+2024-10-25 01:53:22,884 - INFO - Found 20 images using selector: img.s-image
+2024-10-25 01:53:22,896 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:53:22,909 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:53:22,920 - INFO - Found 20 images using selector: img[srcset]
+2024-10-25 01:53:22,925 - INFO - Found 18 images in calculator
+2024-10-25 01:53:22,926 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71Er0a9stOL._AC_UY218_.jpg
+2024-10-25 01:53:23,029 - INFO - Successfully downloaded image to: data/calculator/calculator_1.jpg
+2024-10-25 01:53:23,030 - INFO - Successfully downloaded: calculator_1.jpg
+2024-10-25 01:53:25,215 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61q1l+ZRtuL._AC_UY218_.jpg
+2024-10-25 01:53:25,299 - INFO - Successfully downloaded image to: data/calculator/calculator_2.jpg
+2024-10-25 01:53:25,300 - INFO - Successfully downloaded: calculator_2.jpg
+2024-10-25 01:53:27,800 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71XIJ1rs6CL._AC_UL640_QL65_.jpg
+2024-10-25 01:53:27,858 - INFO - Successfully downloaded image to: data/calculator/calculator_3.jpg
+2024-10-25 01:53:27,859 - INFO - Successfully downloaded: calculator_3.jpg
+2024-10-25 01:53:30,696 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81JikRw3uLL._AC_UY218_.jpg
+2024-10-25 01:53:30,767 - INFO - Successfully downloaded image to: data/calculator/calculator_4.jpg
+2024-10-25 01:53:30,768 - INFO - Successfully downloaded: calculator_4.jpg
+2024-10-25 01:53:35,290 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71VNS7rAmJL._AC_UY218_.jpg
+2024-10-25 01:53:35,419 - INFO - Successfully downloaded image to: data/calculator/calculator_5.jpg
+2024-10-25 01:53:35,421 - INFO - Successfully downloaded: calculator_5.jpg
+2024-10-25 01:53:38,704 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71KDkCzrFwL._AC_UL640_QL65_.jpg
+2024-10-25 01:53:38,779 - INFO - Successfully downloaded image to: data/calculator/calculator_6.jpg
+2024-10-25 01:53:38,780 - INFO - Successfully downloaded: calculator_6.jpg
+2024-10-25 01:53:42,446 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/711gsV7aL9L._AC_UY218_.jpg
+2024-10-25 01:53:42,537 - INFO - Successfully downloaded image to: data/calculator/calculator_7.jpg
+2024-10-25 01:53:42,539 - INFO - Successfully downloaded: calculator_7.jpg
+2024-10-25 01:53:45,478 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61mCyqYfJ9L._AC_UY218_.jpg
+2024-10-25 01:53:45,549 - INFO - Successfully downloaded image to: data/calculator/calculator_8.jpg
+2024-10-25 01:53:45,550 - INFO - Successfully downloaded: calculator_8.jpg
+2024-10-25 01:53:50,138 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71mL4boUKwL._AC_UY218_.jpg
+2024-10-25 01:53:50,215 - INFO - Successfully downloaded image to: data/calculator/calculator_9.jpg
+2024-10-25 01:53:50,216 - INFO - Successfully downloaded: calculator_9.jpg
+2024-10-25 01:53:54,070 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71GjKVS44dL._AC_UY218_.jpg
+2024-10-25 01:53:54,125 - INFO - Successfully downloaded image to: data/calculator/calculator_10.jpg
+2024-10-25 01:53:54,126 - INFO - Successfully downloaded: calculator_10.jpg
+2024-10-25 01:53:57,166 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61VSvOzdNJL._AC_UY218_.jpg
+2024-10-25 01:53:57,223 - INFO - Successfully downloaded image to: data/calculator/calculator_11.jpg
+2024-10-25 01:53:57,224 - INFO - Successfully downloaded: calculator_11.jpg
+2024-10-25 01:53:59,781 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71Bq3CsON8L._AC_UY218_.jpg
+2024-10-25 01:53:59,837 - INFO - Successfully downloaded image to: data/calculator/calculator_12.jpg
+2024-10-25 01:53:59,838 - INFO - Successfully downloaded: calculator_12.jpg
+2024-10-25 01:54:03,538 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71MD+gF1tNL._AC_UY218_.jpg
+2024-10-25 01:54:03,617 - INFO - Successfully downloaded image to: data/calculator/calculator_13.jpg
+2024-10-25 01:54:03,618 - INFO - Successfully downloaded: calculator_13.jpg
+2024-10-25 01:54:07,870 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71FQ-AmwYEL._AC_UY218_.jpg
+2024-10-25 01:54:07,954 - INFO - Successfully downloaded image to: data/calculator/calculator_14.jpg
+2024-10-25 01:54:07,955 - INFO - Successfully downloaded: calculator_14.jpg
+2024-10-25 01:54:11,726 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61BkrIfXX5L._AC_UY218_.jpg
+2024-10-25 01:54:11,841 - INFO - Successfully downloaded image to: data/calculator/calculator_15.jpg
+2024-10-25 01:54:11,843 - INFO - Successfully downloaded: calculator_15.jpg
+2024-10-25 01:54:16,529 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51CML+CVlfL._AC_UY218_.jpg
+2024-10-25 01:54:16,583 - INFO - Successfully downloaded image to: data/calculator/calculator_16.jpg
+2024-10-25 01:54:16,584 - INFO - Successfully downloaded: calculator_16.jpg
+2024-10-25 01:54:18,910 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71bEVbFABrL._AC_UY218_.jpg
+2024-10-25 01:54:18,975 - INFO - Successfully downloaded image to: data/calculator/calculator_17.jpg
+2024-10-25 01:54:18,976 - INFO - Successfully downloaded: calculator_17.jpg
+2024-10-25 01:54:22,199 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61rETYdN9FL._AC_UY218_.jpg
+2024-10-25 01:54:22,284 - INFO - Successfully downloaded image to: data/calculator/calculator_18.jpg
+2024-10-25 01:54:22,285 - INFO - Successfully downloaded: calculator_18.jpg
+2024-10-25 01:54:26,768 - INFO - Successfully completed scraping for category: calculator
+2024-10-25 01:54:26,769 - INFO - Starting to scrape category: headphones
+2024-10-25 01:54:26,769 - INFO - Starting to scrape category: headphones
+2024-10-25 01:54:26,769 - INFO - Attempting to fetch https://www.amazon.com/s?k=headphones (attempt 1/3)
+2024-10-25 01:54:28,012 - INFO - Successfully fetched page: https://www.amazon.com/s?k=headphones
+2024-10-25 01:54:28,294 - INFO - Searching for image elements in the page
+2024-10-25 01:54:28,310 - INFO - Found 25 images using selector: img.s-image
+2024-10-25 01:54:28,325 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 01:54:28,341 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 01:54:28,356 - INFO - Found 25 images using selector: img[srcset]
+2024-10-25 01:54:28,356 - INFO - Found 21 images in headphones
+2024-10-25 01:54:28,357 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/41CiQ7hR31L._AC_UY218_.jpg
+2024-10-25 01:54:28,444 - INFO - Successfully downloaded image to: data/headphones/headphones_1.jpg
+2024-10-25 01:54:28,446 - INFO - Successfully downloaded: headphones_1.jpg
+2024-10-25 01:54:33,160 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51QskGMw40L._AC_UY218_.jpg
+2024-10-25 01:54:33,244 - INFO - Successfully downloaded image to: data/headphones/headphones_2.jpg
+2024-10-25 01:54:33,246 - INFO - Successfully downloaded: headphones_2.jpg
+2024-10-25 01:54:37,697 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71F2ccIPPLL._AC_UY218_.jpg
+2024-10-25 01:54:37,752 - INFO - Successfully downloaded image to: data/headphones/headphones_3.jpg
+2024-10-25 01:54:37,753 - INFO - Successfully downloaded: headphones_3.jpg
+2024-10-25 01:54:41,227 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/11hfR5Cq9GL._SS200_.png
+2024-10-25 01:54:41,274 - INFO - Successfully downloaded image to: data/headphones/headphones_4.jpg
+2024-10-25 01:54:41,276 - INFO - Successfully downloaded: headphones_4.jpg

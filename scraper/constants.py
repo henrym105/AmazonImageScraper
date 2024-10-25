@@ -1,16 +1,16 @@
 # Base URL and category paths
 AMAZON_BASE_URL = "https://www.amazon.com"
 CATEGORIES = {
-    "electronics": "/s?k=electronics",
-    "books": "/s?k=books",
-    "fashion": "/s?k=fashion",
-    "home_kitchen": "/s?k=home+and+kitchen",
-    "toys_games": "/s?k=toys+and+games",
-    "sports_outdoors": "/s?k=sports+and+outdoors",
-    "beauty": "/s?k=beauty",
-    "automotive": "/s?k=automotive",
-    "pet_supplies": "/s?k=pet+supplies",
-    "office_products": "/s?k=office+products"
+    "backpack": "/s?k=backpack",
+    "bike": "/s?k=bicycle",
+    "calculator": "/s?k=calculator",
+    "headphones": "/s?k=headphones",
+    "keyboard": "/s?k=computer+keyboard",
+    "laptop": "/s?k=laptop",
+    "monitor": "/s?k=computer+monitor",
+    "mouse": "/s?k=computer+mouse",
+    "mug": "/s?k=coffee+mug",
+    "projector": "/s?k=projector"
 }
 
 # User agents for rotation
