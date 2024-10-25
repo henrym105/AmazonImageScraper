@@ -675,3 +675,95 @@
 2024-10-25 01:54:41,227 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/11hfR5Cq9GL._SS200_.png
 2024-10-25 01:54:41,274 - INFO - Successfully downloaded image to: data/headphones/headphones_4.jpg
 2024-10-25 01:54:41,276 - INFO - Successfully downloaded: headphones_4.jpg
+2024-10-25 02:26:49,365 - INFO - Starting Amazon product image scraper
+2024-10-25 02:26:49,365 - INFO - Python version: 3.11.9 (main, Apr  2 2024, 08:25:04) [GCC 13.3.0]
+2024-10-25 02:26:49,366 - INFO - Created directories for categories in data
+2024-10-25 02:26:49,366 - INFO - Starting to scrape category: backpack
+2024-10-25 02:26:49,366 - INFO - Starting to scrape category: backpack
+2024-10-25 02:26:49,366 - INFO - Attempting to fetch https://www.amazon.com/s?k=backpack (attempt 1/3)
+2024-10-25 02:26:50,947 - INFO - Successfully fetched page: https://www.amazon.com/s?k=backpack
+2024-10-25 02:26:51,175 - INFO - Searching for image elements in the page
+2024-10-25 02:26:51,189 - INFO - Found 33 images using selector: img.s-image
+2024-10-25 02:26:51,204 - INFO - Found 0 images using selector: img[data-old-hires]
+2024-10-25 02:26:51,218 - INFO - Found 0 images using selector: img[data-a-dynamic-image]
+2024-10-25 02:26:51,232 - INFO - Found 25 images using selector: img[srcset]
+2024-10-25 02:26:51,233 - INFO - Found 24 images in backpack
+2024-10-25 02:26:51,233 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/716-ufSNJ5L._AC_UY218_.jpg
+2024-10-25 02:26:51,341 - INFO - Successfully downloaded image to: data/backpack/backpack_1.jpg
+2024-10-25 02:26:51,342 - INFO - Successfully downloaded: backpack_1.jpg
+2024-10-25 02:26:55,415 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71b85TcyISL._AC_UY218_.jpg
+2024-10-25 02:26:55,730 - INFO - Successfully downloaded image to: data/backpack/backpack_2.jpg
+2024-10-25 02:26:55,731 - INFO - Successfully downloaded: backpack_2.jpg
+2024-10-25 02:27:00,384 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71j-s9bWcHL._AC_UY218_.jpg
+2024-10-25 02:27:00,440 - INFO - Successfully downloaded image to: data/backpack/backpack_3.jpg
+2024-10-25 02:27:00,441 - INFO - Successfully downloaded: backpack_3.jpg
+2024-10-25 02:27:03,960 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81g+yVaD0TL._AC_UY218_.jpg
+2024-10-25 02:27:04,015 - INFO - Successfully downloaded image to: data/backpack/backpack_4.jpg
+2024-10-25 02:27:04,016 - INFO - Successfully downloaded: backpack_4.jpg
+2024-10-25 02:27:07,262 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61SHHV19mFL._AC_UL320_.jpg
+2024-10-25 02:27:07,343 - INFO - Successfully downloaded image to: data/backpack/backpack_5.jpg
+2024-10-25 02:27:07,345 - INFO - Successfully downloaded: backpack_5.jpg
+2024-10-25 02:27:11,679 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61YKKRDbm+L._AC_UY218_.jpg
+2024-10-25 02:27:11,914 - INFO - Successfully downloaded image to: data/backpack/backpack_6.jpg
+2024-10-25 02:27:11,915 - INFO - Successfully downloaded: backpack_6.jpg
+2024-10-25 02:27:14,347 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/816eG81cCSL._AC_UY218_.jpg
+2024-10-25 02:27:14,411 - INFO - Successfully downloaded image to: data/backpack/backpack_7.jpg
+2024-10-25 02:27:14,412 - INFO - Successfully downloaded: backpack_7.jpg
+2024-10-25 02:27:17,176 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/816eG81cCSL._AC_UL320_.jpg
+2024-10-25 02:27:17,289 - INFO - Successfully downloaded image to: data/backpack/backpack_8.jpg
+2024-10-25 02:27:17,290 - INFO - Successfully downloaded: backpack_8.jpg
+2024-10-25 02:27:22,061 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51x1v9XJ80L._AC_UY218_.jpg
+2024-10-25 02:27:22,293 - INFO - Successfully downloaded image to: data/backpack/backpack_9.jpg
+2024-10-25 02:27:22,294 - INFO - Successfully downloaded: backpack_9.jpg
+2024-10-25 02:27:25,803 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71yPO5Ks7jL._AC_UL640_QL65_.jpg
+2024-10-25 02:27:25,861 - INFO - Successfully downloaded image to: data/backpack/backpack_10.jpg
+2024-10-25 02:27:25,862 - INFO - Successfully downloaded: backpack_10.jpg
+2024-10-25 02:27:30,795 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81Z+LmK0clL._AC_UY218_.jpg
+2024-10-25 02:27:31,030 - INFO - Successfully downloaded image to: data/backpack/backpack_11.jpg
+2024-10-25 02:27:31,032 - INFO - Successfully downloaded: backpack_11.jpg
+2024-10-25 02:27:35,048 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71VQl1X3DqL._AC_UY218_.jpg
+2024-10-25 02:27:35,176 - INFO - Successfully downloaded image to: data/backpack/backpack_12.jpg
+2024-10-25 02:27:35,177 - INFO - Successfully downloaded: backpack_12.jpg
+2024-10-25 02:27:39,114 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81gk0hAW41L._AC_UL640_QL65_.jpg
+2024-10-25 02:27:39,209 - INFO - Successfully downloaded image to: data/backpack/backpack_13.jpg
+2024-10-25 02:27:39,210 - INFO - Successfully downloaded: backpack_13.jpg
+2024-10-25 02:27:41,246 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/716-ufSNJ5L._AC_UL320_.jpg
+2024-10-25 02:27:41,506 - INFO - Successfully downloaded image to: data/backpack/backpack_14.jpg
+2024-10-25 02:27:41,508 - INFO - Successfully downloaded: backpack_14.jpg
+2024-10-25 02:27:46,429 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81WjalMN8mL._AC_UY218_.jpg
+2024-10-25 02:27:46,478 - INFO - Successfully downloaded image to: data/backpack/backpack_15.jpg
+2024-10-25 02:27:46,479 - INFO - Successfully downloaded: backpack_15.jpg
+2024-10-25 02:27:48,933 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/91IsBDIF+8L._AC_UL320_.jpg
+2024-10-25 02:27:48,983 - INFO - Successfully downloaded image to: data/backpack/backpack_16.jpg
+2024-10-25 02:27:48,983 - INFO - Successfully downloaded: backpack_16.jpg
+2024-10-25 02:27:53,650 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/61Ns-H-YLtL._AC_UY218_.jpg
+2024-10-25 02:27:53,723 - INFO - Successfully downloaded image to: data/backpack/backpack_17.jpg
+2024-10-25 02:27:53,724 - INFO - Successfully downloaded: backpack_17.jpg
+2024-10-25 02:27:58,274 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71dSFoYUAXL._AC_UY218_.jpg
+2024-10-25 02:27:58,410 - INFO - Successfully downloaded image to: data/backpack/backpack_18.jpg
+2024-10-25 02:27:58,412 - INFO - Successfully downloaded: backpack_18.jpg
+2024-10-25 02:28:01,478 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/11++B3A2NEL._SS200_.png
+2024-10-25 02:28:01,526 - INFO - Successfully downloaded image to: data/backpack/backpack_19.jpg
+2024-10-25 02:28:01,527 - INFO - Successfully downloaded: backpack_19.jpg
+2024-10-25 02:28:06,435 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/71olG7l8KlL._AC_UY218_.jpg
+2024-10-25 02:28:06,522 - INFO - Successfully downloaded image to: data/backpack/backpack_20.jpg
+2024-10-25 02:28:06,523 - INFO - Successfully downloaded: backpack_20.jpg
+2024-10-25 02:28:08,978 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81WjalMN8mL._AC_UL320_.jpg
+2024-10-25 02:28:09,032 - INFO - Successfully downloaded image to: data/backpack/backpack_21.jpg
+2024-10-25 02:28:09,033 - INFO - Successfully downloaded: backpack_21.jpg
+2024-10-25 02:28:11,387 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81viDwch+yL._AC_UY218_.jpg
+2024-10-25 02:28:11,441 - INFO - Successfully downloaded image to: data/backpack/backpack_22.jpg
+2024-10-25 02:28:11,442 - INFO - Successfully downloaded: backpack_22.jpg
+2024-10-25 02:28:14,389 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/51r6v5HdiiL._AC_UY218_.jpg
+2024-10-25 02:28:14,458 - INFO - Successfully downloaded image to: data/backpack/backpack_23.jpg
+2024-10-25 02:28:14,459 - INFO - Successfully downloaded: backpack_23.jpg
+2024-10-25 02:28:19,426 - INFO - Attempting to download image from: https://m.media-amazon.com/images/I/81idlqFqcUL._AC_UY218_.jpg
+2024-10-25 02:28:19,490 - INFO - Successfully downloaded image to: data/backpack/backpack_24.jpg
+2024-10-25 02:28:19,490 - INFO - Successfully downloaded: backpack_24.jpg
+2024-10-25 02:28:22,539 - INFO - Successfully completed scraping for category: backpack
+2024-10-25 02:28:22,540 - INFO - Starting to scrape category: bike
+2024-10-25 02:28:22,540 - INFO - Starting to scrape category: bike
+2024-10-25 02:28:22,540 - INFO - Attempting to fetch https://www.amazon.com/s?k=bicycle (attempt 1/3)
+2024-10-25 02:28:22,643 - ERROR - Attempt 1/3 failed for https://www.amazon.com/s?k=bicycle: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=bicycle
+2024-10-25 02:28:27,381 - INFO - Attempting to fetch https://www.amazon.com/s?k=bicycle (attempt 2/3)
+2024-10-25 02:28:27,510 - ERROR - Attempt 2/3 failed for https://www.amazon.com/s?k=bicycle: 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=bicycle
